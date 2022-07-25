@@ -1,6 +1,6 @@
 Developer - K.Janarthanan
 
-![alt text](https://github.com/kujalk/S3_Resize_Images/blob/main/architecture.png)
+![alt text](https://github.com/kujalk/S3_Resize_Images/blob/main/Architecture.png)
 
 Pre-Requisites
 -----------------
