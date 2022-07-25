@@ -25,7 +25,9 @@ Method
 After Resource Creation
 -----------------------
 Create Empty folders in S3
+
 	1. Images
+	
 	2. Processed_Images
 
 Now you can upload images to "Images/" folder 
