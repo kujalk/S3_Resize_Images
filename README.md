@@ -37,3 +37,7 @@ This will trigger the lambda function and process the image and put back in Proc
 To Delete the Resources
 -------------------------
 terraform destroy -auto-approve
+
+Blog 
+--------------------------
+https://scripting4ever.wordpress.com/2022/07/25/resizing-images-uploaded-to-s3-on-the-fly-to-different-sizes-and-serving-via-cloudfront/
