@@ -9,7 +9,7 @@ Pre-Requisites
     - Refer this document - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 [B] Terraform installed 
-    - Download Terraform - https://www.terraform.io/downloads.html
+    - Download Terraform - https://www.terraform.io/downloads.html 
 
 
 Method
